@@ -5,7 +5,7 @@ My name is Alissa. I love to run and play soccer, two things I never do anymore.
   <title>Marvelous Inventions</title>
   <body>
     <h1>Best Inventions Ever!</h1>
-    <img src="green robot.jpg" width="250px">
+    <img src="green robot.jpg" width=14%>
   <ul>
     <li>Household appliances</li>
     <li>Industrial Robots</li>
